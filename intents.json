@@ -1,0 +1,188 @@
+{
+    "intents": [
+        {
+            "tag": "listarcomandos",
+            "pattern": [ "listar comandos", "ajuda" ],
+            "description": "Lista os comandos da Rainha"
+        },
+        {
+            "tag": "gettimers",
+            "pattern": [ "mostre o timer", "mostre os timers", "mostra o timer", "mostra os timers", "mostra os times", "mostre os times", "tem algum timer" ],
+            "description": "Mostra os Timers"
+        },
+        {
+            "tag": "deltimers",
+            "pattern": [ "remova todos os timers", "remova os timers", "delete os timers", "delete o timer", "remova o timer" ],
+            "description": "Remove os timers"
+        },
+        {
+            "tag": "timer",
+            "pattern": [ "adicione um timer", "timer", "adicione timer" ],
+            "fala": [ "timer" ],
+            "replace": "",
+            "description": "Adiciona um timer"
+        },
+        {
+            "tag": "imagens",
+            "pattern": [ "mostre", "apresente" ],
+            "replace": "",
+            "description": "Mostra imagens sobre o comando"
+        },
+        {
+            "tag": "pesquisa",
+            "pattern": [ "pesquise", "pesquisa", "pesquisar" ],
+            "replace": "",
+            "description": "Pesquisa o comando"
+        },
+        {
+            "tag": "tocar",
+            "pattern": [ "tocar", "toque" ],
+            "replace": "",
+            "description": "Toca o comando"
+        },
+        {
+            "tag": "traduzir",
+            "pattern": [ "traduz", "traduzir", "traduza" ],
+            "replace": "",
+            "description": "Traduz o comando"
+        },
+        {
+            "tag": "continuar",
+            "pattern": [ "continuar", "continue" ],
+            "description": "Contínua o vídeo"
+        },
+        {
+            "tag": "calculo",
+            "pattern": [ "quanto é" ],
+            "replace": "",
+            "description": "Calcula o comando"
+        },
+        {
+            "tag": "rimar",
+            "pattern": [ "rimas com" ],
+            "replace": "",
+            "description": "Rimas com o comando"
+        },
+        {
+            "tag": "bye",
+            "pattern": [ "obrigado por tudo", "até mais", "até logo", "tchau", "bye" ],
+            "description": "Desliga a Rainha"
+        },
+        {
+            "tag": "fullscreen",
+            "pattern": [ "tela cheia" ],
+            "description": "Coloca o vídeo em tela cheia"
+        },
+        {
+            "tag": "nextvideo",
+            "pattern": [ "próximo vídeo" ],
+            "description": "Pula para o próximo vídeo"
+        },
+        {
+            "tag": "prevvideo",
+            "pattern": [ "vídeo anterior" ],
+            "description": "Pula para o vídeo anterior"
+        },
+        {
+            "tag": "aumvol",
+            "pattern": [ "aumentar volume" ],
+            "description": "Aumenta o volume"
+        },
+        {
+            "tag": "dimvol",
+            "pattern": [ "diminuir volume", "abaixar volume" ],
+            "description": "Diminui o volume"
+        },
+        {
+            "tag": "fecharpag",
+            "pattern": [ "fechar página" ],
+            "description": "Fecha a página"
+        },
+        {
+            "tag": "pausar",
+            "pattern": [ "pausar", "pause" ],
+            "description": "Pausa o vídeo"
+        },
+        {
+            "tag": "desligar",
+            "pattern": [ "desligar" ],
+            "description": "Desliga o monitor"
+        },
+        {
+            "tag": "nextchapter",
+            "pattern": [ "próximo capítulo" ],
+            "description": "Pula para o próximo capítulo"
+        },
+        {
+            "tag": "prevchapter",
+            "pattern": [ "capítulo anterior" ],
+            "description": "Pula para o capítulo anterior"
+        },
+        {
+            "tag": "supremacy",
+            "pattern": [ "supremacy games", "suprema games", "suprema se games" ],
+            "description": "Abre a WebNovel Supremacy Games"
+        },
+        {
+            "tag": "wiki",
+            "pattern": [ "resumo sobre", "fale sobre", "o que é", "o que são", "quem é", "quem foi" ],
+            "replace": "",
+            "description": "Dá um resumo sobre o comando"
+        },
+        {
+            "tag": "parar",
+            "pattern": [ "parou", "parar", "pare" ],
+            "description": "Para o vídeo"
+        },
+        {
+            "tag": "randomnum",
+            "pattern": [ "número aleatório" ],
+            "replace": "",
+            "description": "Fala um número aleatório"
+        },
+        {
+            "tag": "goodnight",
+            "pattern": [ "boa noite" ],
+            "fala": [ "goodnight1", "goodnight2" ],
+            "description": "Desliga a Rainha"
+        },
+        {
+            "tag": "howareyou",
+            "pattern": [ "tudo bem com você" ],
+            "fala": [ "howareyou" ],
+            "description": "Seja gentil com a Rainha"
+        },
+        {
+            "tag": "cumprimentos",
+            "pattern": [ "oi", "tem alguém aí", "olá", "bom dia", "boa tarde", "e aí", "ei", "saudações" ],
+            "fala": [ "cumprimento1", "cumprimento2" ],
+            "description": "Cumprimenta a Rainha"
+        },
+        {
+            "tag": "horario",
+            "pattern": [ "que horas" ],
+            "description": "Fala as horas"
+        },
+        {
+            "tag": "clima",
+            "pattern": [ "temperatura" ],
+            "description": "Fala a temperatura"
+        },
+        {
+            "tag": "audiochange",
+            "pattern": [ "trocar áudio", "trocar som" ],
+            "description": "Troca o dispositivo de aúdio"
+        },
+        {
+            "tag": "abrir",
+            "pattern": [ "abra", "abrir" ],
+            "replace": "",
+            "description": "Abre o(a) aplicativo/página"
+        },
+        {
+            "tag": "fecharapp",
+            "pattern": [ "fechar aplicativo", "feche o aplicativo", "finalizar aplicativo", "fechar app", "finalizar app", "finalize o aplicativo" ],
+            "description": "Fecha o aplicativo"
+        }
+    ]
+}
