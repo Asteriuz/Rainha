@@ -2,6 +2,13 @@
 👑<br>Rainha
 </h1>
 
+<div align="center">
+
+![Size](https://img.shields.io/github/repo-size/asteriuz/rainha?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgd2lkdGg9IjI0IgogICBoZWlnaHQ9IjI0IgogICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzEyIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzCiAgICAgaWQ9ImRlZnMxNiIgLz4KICA8cGF0aAogICAgIGQ9Ik0gOCwxNCBIIDAgViAxMiBIIDguNjcyIFogTSAwLDI0IHYgLTggaCAyNCB2IDggeiBtIDIsLTIgaCAyMCB2IC00IGggLTIgdiAyIGggLTEgdiAtMiBoIC0yIHYgMyBoIC0xIHYgLTMgaCAtMiB2IDIgaCAtMSB2IC0yIGggLTIgdiAyIEggMTAgViAxOCBIIDggdiAzIEggNyBWIDE4IEggNSB2IDIgSCA0IFYgMTggSCAyIFogTSAxMS4zOTgsOS43NCAxMCwxNCAxNC4yMjcsMTIuNTY4IFogTSAyMS4xNzIsMCAyNCwyLjgyOCAxNS40MTMsMTEuMzgyIDEyLjU4NSw4LjU1NCBaIgogICAgIGlkPSJwYXRoMTAiCiAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MSIgLz4KPC9zdmc+Cg==)
+![Language](https://img.shields.io/github/languages/top/asteriuz/rainha?logo=python&logoColor=white&style=for-the-badge)
+
+</div>
+
 <p align="center">
 <img src="img/RainhaIA.png" alt="exemplo imagem" width=500>
 </p>
